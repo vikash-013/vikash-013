@@ -1,4 +1,4 @@
-![logo](https://github.com/vikash-013/vikash-013/blob/main/github.png)
+
 <h1 align="center">Hi 👋, I'm Vikash Kumar kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width = 400px src = "https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
